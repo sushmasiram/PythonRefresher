@@ -1,1 +1,1 @@
-![alt text](https://github.com/sushmasiram/PythonRefresher/pythonLogo.jpg "Logo Title Text 1")
+![alt text](https://github.com/sushmasiram/PythonRefresher/blob/master/pythonLogo.jpg"PythonLogo")
